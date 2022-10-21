@@ -14,10 +14,10 @@ The content of the sub-projects currently in progress can be found here:
 
 [ARVM-TopProject](ARVM-TopProject) - the main project outlining the anticipated sub-projects.
 
-[ARVM-Standards](ARVM-Standards) - the 
+[ARVM-Standards](ARVM-Standards) - defining and implementing evolving interface standards for test bench components. 
 
-[ARVM-FunctionalCoverage](ARVM-FunctionalCoverage) - the 
+[ARVM-FunctionalCoverage](ARVM-FunctionalCoverage) - using automation to create open-source SystemVerilog functional coverage.
 
-[ARVM-TestbenchQuality](ARVM-TestbenchQuality) - the 
+[ARVM-TestbenchQuality](ARVM-TestbenchQuality) - developing quality measurement of test benches. 
 
 
