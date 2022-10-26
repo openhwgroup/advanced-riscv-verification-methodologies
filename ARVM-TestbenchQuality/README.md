@@ -6,6 +6,6 @@ The focus of ARVM-Standards is in developing quality measurement of test benches
 
 Work is is just starting (Oct 2022) in this project, and we are just arranging the OpenHW discussions.
 
-Latest status report is: [monthly-report-2022-Oct-17.md](monthly-report-2022-Oct-17.md).
+Latest status report is: [monthly-report-2022-Oct-17.md](https://github.com/openhwgroup/programs/TGs/verification-task-group/projects/ARVM-TestbenchQuality/meetings/2022/monthly-report-2022-Oct-17.md).
 
 
