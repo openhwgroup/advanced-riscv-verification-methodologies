@@ -14,6 +14,7 @@ what more coverage is needed
 3) cross of rounding modes and datasets
 	to check that rounding modes have been stimulated
 4) specific fpu values DONE (fpu vals)
-5) 
+5) Zfinx
+6) 
 
 what else is needed?
