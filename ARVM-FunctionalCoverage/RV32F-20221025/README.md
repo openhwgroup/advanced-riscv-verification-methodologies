@@ -13,7 +13,7 @@ what more coverage is needed
 2) datasets through the design DONE (toggle, maxvals)
 3) cross of rounding modes and datasets
 	to check that rounding modes have been stimulated
-4) specific fpu values DONE (fpu vals)
+4) specific fpu values DONE (fpu vals) - still needs -ve zero? DONE
 5) Zfinx
 6) 
 
