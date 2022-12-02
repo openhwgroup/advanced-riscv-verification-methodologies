@@ -6,6 +6,6 @@ The focus of ARVM-Standards is in defining and implementing evolving interface s
 
 Initial work is centered around: [RISC-V Verification Interface: RVVI](https://github.com/riscv-verification/RVVI).
 
-Latest status report is: [monthly-report-2022-Oct-17.md](https://github.com/openhwgroup/programs/TGs/verification-task-group/projects/ARVM-Standards/meetings/2022/monthly-report-2022-Oct-17.md).
+Latest status report is: [monthly-report-2022-Nov-21.md](https://github.com/openhwgroup/programs/blob/master/TGs/verification-task-group/projects/ARVM-Standards/meetings/2022/monthly-report-2022-Nov-21.md).
 
 
