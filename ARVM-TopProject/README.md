@@ -6,7 +6,7 @@ The project proposal is here: [2022-Aug10-ARVM-Advanced-riscv-Verification-Metho
 
 The project meeting notes etc. are here: [programs/.../meetings](https://github.com/openhwgroup/programs/tree/master/TGs/verification-task-group/projects/ARVM-Advanced-RISCV-Verification-Methodologies-TopProject/meetings)
 
-For information on the active sub-projects look here: [advanced-riscv-verification-methodologies](../)
+For information on the active sub-projects look here: [advanced-riscv-verification-methodologies](https://github.com/openhwgroup/advanced-riscv-verification-methodologies)
 
 
 
